@@ -56,8 +56,13 @@
      <Compile Include="Assets\Scripts\AnimationControl.cs" />
      <Compile Include="Assets\Scripts\CharcterControl.cs" />
      <Compile Include="Assets\Scripts\CharcterStats.cs" />
+     <Compile Include="Assets\Scripts\DieEnemy.cs" />
+     <Compile Include="Assets\Scripts\EnemyControl.cs" />
+     <Compile Include="Assets\Scripts\EnemySpellsControl.cs" />
      <Compile Include="Assets\Scripts\HpControl.cs" />
+     <Compile Include="Assets\Scripts\MapCreateBlock.cs" />
      <Compile Include="Assets\Scripts\Regeneration.cs" />
+     <Compile Include="Assets\Scripts\SpawnBlockOneRand.cs" />
      <Compile Include="Assets\Scripts\SpellsControl.cs" />
      <Compile Include="Assets\Scripts\SpellsStats.cs" />
  <Reference Include="Unity.Timeline.Editor">
