@@ -14,5 +14,6 @@ public class CharcterStats : MonoBehaviour
     public float SpeedAttack;
 
     public float speed;
+    public int score;
 
 }
