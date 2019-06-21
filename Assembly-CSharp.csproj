@@ -63,10 +63,12 @@
      <Compile Include="Assets\Scripts\LoadHub.cs" />
      <Compile Include="Assets\Scripts\LoadLevel.cs" />
      <Compile Include="Assets\Scripts\MapCreateBlock.cs" />
+     <Compile Include="Assets\Scripts\OutGame.cs" />
      <Compile Include="Assets\Scripts\Procatch.cs" />
      <Compile Include="Assets\Scripts\Regeneration.cs" />
      <Compile Include="Assets\Scripts\SaveStatsAndLoad.cs" />
      <Compile Include="Assets\Scripts\SpawnBlockOneRand.cs" />
+     <Compile Include="Assets\Scripts\SpawnEnemy.cs" />
      <Compile Include="Assets\Scripts\SpawnPortal.cs" />
      <Compile Include="Assets\Scripts\SpellsControl.cs" />
      <Compile Include="Assets\Scripts\SpellsStats.cs" />

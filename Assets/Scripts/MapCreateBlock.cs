@@ -56,6 +56,7 @@ public class MapCreateBlock : MonoBehaviour {
                 LeftRight = 0;
                 randvalue = Random.Range(0, 4);
                 
+                
                 if (randvalue == 0) { UpDown = 1; }
                 if (randvalue == 1) { UpDown = -1; }
                 if (randvalue == 2) { LeftRight = 1; }
